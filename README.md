@@ -18,7 +18,7 @@ compile 'com.lyf.slidebarlibrary:slidebarlibrary:0.0.1'
                 </android.support.v7.widget.RecyclerView>
 
 
-                <com.lyf.bookreader.view.SlideBar
+                <com.lyf.slidebarlibrary.SlideBar
                    
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"/>
